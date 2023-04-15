@@ -1,7 +1,7 @@
 {
 
   "GlobalConfiguration": {
-    "BaseURL": "http://localhist:5071"
+    "BaseURL": "http://localhost:5071"
   },
 
 
